@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Philipp Reiß
 
-<!--
-**preiss-qa/preiss-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Automation Engineer focused on building maintainable, scalable test automation frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I Do
+
+- API Testing with pytest + requests
+- Contract Testing using Pydantic
+- End-to-End Testing with Playwright
+- CI/CD with GitHub Actions
+- Page Object Model architecture
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 QA Automation Framework
+Professional API + E2E automation framework built with:
+
+- Python
+- pytest
+- Playwright
+- Pydantic (Contract Testing)
+- GitHub Actions (CI Quality Gate)
+
+👉 Repository: https://github.com/preiss-qa/qa-automation
+
+---
+
+## 📚 Currently Learning
+
+- Advanced CI optimization
+- Test architecture scaling
+- Automation best practices
+
+---
+
+## 📫 Connect
+
+Always improving and building structured QA systems.
