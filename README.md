@@ -14,6 +14,14 @@ QA Automation Engineer focused on building maintainable, scalable test automatio
 
 ---
 
+## What this project demonstrates
+- API testing (pytest + requests)
+- Contract testing (Pydantic models)
+- E2E testing (Playwright + Page Object Model)
+- CI quality gate (GitHub Actions)
+
+---
+
 ## 🚀 Featured Project
 
 ### 🔹 QA Automation Framework
