@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Philipp Reiß
 
+![CI](https://github.com/preiss-qa/qa-automation/actions/workflows/ci.yml/badge.svg)
+
 QA Automation Engineer building production-style API and E2E automation frameworks with CI quality gates.
 
 ---
