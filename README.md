@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Philipp Reiß
 
-QA Automation Engineer focused on building maintainable, scalable test automation frameworks.
+QA Automation Engineer building production-style API and E2E automation frameworks with CI quality gates.
 
 ---
 
